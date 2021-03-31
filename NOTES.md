@@ -1,13 +1,13 @@
 ## Updated file(s):
-Product__cs.json
-ProductController.cls
-productCard.html
-productCard.js
-productFilter.html
-productFilter.js
-getProducts.json
-Frame_Color__c.field-meta.xml
-ProductList.listView-meta.xml
+Product__cs.json,
+ProductController.cls,
+productCard.html,
+productCard.js,
+productFilter.html,
+productFilter.js,
+getProducts.json,
+Frame_Color__c.field-meta.xml,
+ProductList.listView-meta.xml,
 E_Bikes.site-meta.xml
 
 
